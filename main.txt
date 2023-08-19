@@ -1,3 +1,5 @@
 1
 exp12
 github 연습해보기 안녕
+
+remote tracking branch 확인
